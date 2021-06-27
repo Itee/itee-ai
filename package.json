@@ -19,7 +19,14 @@
   "author": "Itee",
   "license": "MIT",
   "dependencies": {
-    "rollup": "^0.58.2",
-    "save-dev": "^2.0.0"
+    "rollup": "^2.52.3"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
