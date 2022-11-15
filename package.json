@@ -19,7 +19,7 @@
   "author": "Itee",
   "license": "MIT",
   "dependencies": {
-    "rollup": "^2.53.3"
+    "rollup": "^2.67.0"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0"
